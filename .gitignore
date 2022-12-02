@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Taipy specific
+.data
+
+# VSCode
+.vscode
